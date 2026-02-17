@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://atomlondon-it.github.io/website/sitemap.xml
